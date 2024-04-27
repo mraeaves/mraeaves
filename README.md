@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mraeaves/mraeaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Alex</h1>
-- 🔭 I’m currently working on revamping an old college project [Tech Outlet](HTTPS://github.com/mraeaves/TechOutlet)
+- 🔭 I’m currently working on revamping an old college project <a href="https://github.com/mraeaves/techoutlet">Tech Outlet</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check out my socials:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_a_eaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_a_eaves" height="30" width="40" /></a>
 </p>
