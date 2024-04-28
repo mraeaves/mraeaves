@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>* { background-color: #30343F }</style>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 - 🔭 I’m currently working on revamping an old college project <a href="https://github.com/mraeaves/techoutlet">Tech Outlet</a>
 
