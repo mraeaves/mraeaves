@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Heyy, I'm Alex 👋
 
-- 🔭 I’m currently working on revamping an old college project called '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'
+- 🔭 I’m currently working on revamping an old college e-commerce store project called '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'.
 
 
 ## 🔗 Check Out My Socials
