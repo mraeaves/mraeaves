@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## 🔗 Check Out My Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexeaves.co.uk/)<br/>
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_a_eaves)
 
 ## 💻 Languages & Tools
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mraeaves&show_icons=true&locale=en&layout=compact" alt="mraeaves" /></p>
