@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on revamping an old college e-commerce store project called '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'. My aim with this is to make the site responsive and semi-functional where the site works with filtering products, logging into the site, allowing the view of a dashboard page (this will be a new addition to the project)
 - 🌱 I'm currently expanding my knowledge with web app development and I am currently exploring the React JS library, using this in my current new projects.
-
+- 🆕 I'm always eager to learn something new and recently I have been looking at learning a bit more about custom software and creating custom apps that can be run on any devices like a raspberry pi etc.
 
 ## 🔗 Check Out My Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexeaves.co.uk/)<br/>
