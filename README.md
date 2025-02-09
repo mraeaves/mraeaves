@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Heyy, I'm Alex 👋
 
-- 🔭 I’m currently working on revamping an old college e-commerce store project called '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'. The objective of this initiative is to develop a responsive and semi-functional website that facilitates product filtering, user login, and the display of a dashboard page, which will be a new feature added to the project.
+- 🔭 I am presently engaged in the process of revitalizing a former college e-commerce project known as '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'. The objective of this initiative is to develop a responsive and semi-functional website that facilitates product filtering, user login, and the display of a dashboard page, which will be a new feature added to the project.
 - 🌱 I am in the process of enhancing my expertise in Python and web application development, while also delving into the React JS library, which I am applying in my ongoing projects.
 - 🆕 I possess a strong enthusiasm for acquiring new knowledge, and I have recently focused my attention on expanding my understanding of custom software development and the creation of bespoke applications that can operate on various devices, including Raspberry Pi.
 
