@@ -12,14 +12,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Heyy, I'm Alex 👋
 
-- 🔭 I am presently engaged in the process of revitalizing a former college e-commerce project known as '<a href="https://github.com/mraeaves/techoutlet">TechOutlet</a>'. The objective of this initiative is to develop a responsive and semi-functional website that facilitates product filtering, user login, and the display of a dashboard page, which will be a new feature added to the project.
-- 🌱 I am in the process of enhancing my expertise in Python and web application development, while also delving into the React JS library, which I am applying in my ongoing projects.
-- 🆕 I possess a strong enthusiasm for acquiring new knowledge, and I have recently focused my attention on expanding my understanding of custom software development and the creation of bespoke applications that can operate on various devices, including Raspberry Pi.
+# Hey, I'm Alex 👋
 
-## 🔗 Check Out My Socials
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexeaves.co.uk/)<br/>
+A brief description of what this project does and who it's for
 
-## 💻 Languages & Tools
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mraeaves&show_icons=true&locale=en&layout=compact" alt="mraeaves" /></p>
+I’m interested in cybersecurity, Python development, and building tools that are actually useful.
+
+Right now I’m focused on improving my skills in:
+
+- 🛡️ Web application security
+- 🐍 Python scripting & automation
+- 🌐 React and modern web development
+- 🔍 Secure coding and vulnerability research
+
+# Current Project
+
+Reworking an old college e-commerce project called TechOutlet into a more modern and secure web app.
+
+Current features include:
+
+- User authentication
+- Product filtering
+- Responsive design
+- Dashboard functionality
+
+The main goal is to improve both the functionality and the security side of the application while learning along the way.
+
+# Other Stuff I Enjoy
+
+- 🛠️ Building small custom tools and side projects
+- 🍓 Experimenting with Raspberry Pi setups
+- 📚 Learning new technologies and security concepts
+- ⚡ Breaking things and figuring out how they work
+
+# Website
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexeaves.co.uk/)
