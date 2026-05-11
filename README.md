@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Hey, I'm Alex 👋
 
-A brief description of what this project does and who it's for
-
 I’m interested in cybersecurity, Python development, and building tools that are actually useful.
 
 Right now I’m focused on improving my skills in:
@@ -28,7 +26,7 @@ Right now I’m focused on improving my skills in:
 
 # Current Project
 
-Reworking an old college e-commerce project called TechOutlet into a more modern and secure web app.
+Alongside building my website and portfolio, I’m also redeveloping an old college e-commerce project called TechOutlet into a more modern, secure web application.
 
 Current features include:
 
