@@ -43,6 +43,7 @@ The main goal is to improve both the functionality and the security side of the 
 - 🍓 Experimenting with Raspberry Pi setups
 - 📚 Learning new technologies and security concepts
 - ⚡ Breaking things and figuring out how they work
+- 🖨️ 3D Printing and Designing
 
 # Website
 
